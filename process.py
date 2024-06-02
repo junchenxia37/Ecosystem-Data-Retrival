@@ -7,6 +7,7 @@ from typing import Dict
 
 TOKEN = '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'
 
+
 def log_error(e):
     with open('error.log', 'a') as f:
         f.write(str(e))
@@ -19,15 +20,12 @@ class Metric:
         self.extractor = extractor
         self.params = params
 
-# def making_date(commit):
-#     return {'date': commit['commit']['author']['date']}
-
 date_fetchers = {
-    Metric('commits', 'commits', lambda commit: {'date': commit['commit']['author']['date']}),
+    Metric('commits', 'commits', lambda commit: {'date': commit['commit']['author']['date']}, {'since': 'YYYY-MM-DDTHH:MM:SSZ'}),
     Metric('forks', 'forks', lambda fork: {'created_at': fork['created_at']}),
     Metric('pulls', 'pulls', lambda pull: {'created_at': pull['created_at'], 'closed_at': pull['closed_at']}, {'state': 'all'}),
     # Metric('watches', 'events', lambda event: None if event['type'] != 'WatchEvent' else {'created_at': event['created_at']}),
-    Metric('issues', 'issues', lambda issue: {'created_at': issue['created_at'], 'closed_at': issue['closed_at']}),
+    Metric('issues', 'issues', lambda issue: {'created_at': issue['created_at'], 'closed_at': issue['closed_at']}, {'state': 'all'}),
     Metric('releases', 'releases', lambda release: {'created_at': release['created_at'], 'published_at': release['published_at']}),
 }
 
@@ -68,11 +66,6 @@ def fetch_all_pages(base_url, headers, params=None):
             break  # Stop the loop on failure
 
     return items
-
-
-# def extend(list, iterable):
-#     for i in iterable:
-#         list.append(i)
 
 def get_metrics(owner, repo, metric: Metric, access_token=None):
     # URL for the GitHub API to get commits
@@ -154,7 +147,7 @@ def process_ecosystems(dir, checkpoint_file_path):
                 except Exception as e:
                     log_error(f'Error happened when handling {repo_link}: {e}')
                     continue
-                with open(checkpoint_file_path, 'w')  as f:
+                with open(checkpoint_file_path, 'w') as f:
                     json.dump(results, f)
             results[org]['owner'] = last_owner
           
@@ -162,7 +155,7 @@ def process_ecosystems(dir, checkpoint_file_path):
 
 INPUT_BASE = './ecosystems'
 
-subfolders = [str(i) for i in range(0, 9)] + [chr(i) for i in range(ord('a'), ord('n') + 1)]
+subfolders = [chr(i) for i in range(ord('n'), ord('z') + 1)]
 
 for subfolder in subfolders:
     print(f'Starting {subfolder}...')
