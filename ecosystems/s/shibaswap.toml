@@ -1,0 +1,23 @@
+# Ecosystem Level Information
+title = "ShibaSwap"
+
+sub_ecosystems = []
+
+github_organizations = []
+
+# Repositories
+[[repo]]
+url = "https://github.com/KaalDhairya/rewards-distribution"
+missing = true
+
+[[repo]]
+url = "https://github.com/KaalDhairya/shibaswap"
+
+[[repo]]
+url = "https://github.com/KaalDhairya/shibaswap-analytics"
+
+[[repo]]
+url = "https://github.com/KaalDhairya/shibaswap-sdk"
+
+[[repo]]
+url = "https://github.com/KaalDhairya/shibaswap-subgraph"

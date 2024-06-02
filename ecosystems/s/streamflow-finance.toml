@@ -1,0 +1,60 @@
+# Ecosystem Level Information
+title = "StreamFlow Finance"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/StreamFlow-Finance"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/StreamFlow-Finance/airdrop"
+
+[[repo]]
+url = "https://github.com/StreamFlow-Finance/analytics"
+
+[[repo]]
+url = "https://github.com/StreamFlow-Finance/analytics-ui"
+missing = true
+
+[[repo]]
+url = "https://github.com/StreamFlow-Finance/docs"
+
+[[repo]]
+url = "https://github.com/streamflow-finance/ecosystem-projects"
+
+[[repo]]
+url = "https://github.com/streamflow-finance/governance-ui"
+missing = true
+
+[[repo]]
+url = "https://github.com/streamflow-finance/js-sdk"
+
+[[repo]]
+url = "https://github.com/streamflow-finance/magnet-cli"
+
+[[repo]]
+url = "https://github.com/streamflow-finance/multisig"
+
+[[repo]]
+url = "https://github.com/streamflow-finance/rust-sdk"
+
+[[repo]]
+url = "https://github.com/streamflow-finance/solana-program-library"
+missing = true
+
+[[repo]]
+url = "https://github.com/StreamFlow-Finance/streamflow-app"
+missing = true
+
+[[repo]]
+url = "https://github.com/StreamFlow-Finance/StreamFlow-Finance.github.io"
+
+[[repo]]
+url = "https://github.com/StreamFlow-Finance/streamflow-program"
+
+[[repo]]
+url = "https://github.com/StreamFlow-Finance/timelock-crate"
+
+[[repo]]
+url = "https://github.com/StreamFlow-Finance/token-list"
+missing = true

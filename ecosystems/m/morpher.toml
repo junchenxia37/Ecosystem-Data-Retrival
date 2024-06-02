@@ -1,0 +1,53 @@
+# Ecosystem Level Information
+title = "Morpher"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/Morpher-io"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/Morpher-io/ai-links-2-Awesome-AI"
+
+[[repo]]
+url = "https://github.com/Morpher-io/ai-links-AI-Product-Index"
+
+[[repo]]
+url = "https://github.com/Morpher-io/ai-links-awesome-ai"
+
+[[repo]]
+url = "https://github.com/Morpher-io/ai-links-awesome-ai-tools"
+
+[[repo]]
+url = "https://github.com/Morpher-io/ai-links-awesome-generative-ai"
+
+[[repo]]
+url = "https://github.com/Morpher-io/assets"
+
+[[repo]]
+url = "https://github.com/Morpher-io/blockscout"
+
+[[repo]]
+url = "https://github.com/Morpher-io/eth-lightwallet"
+
+[[repo]]
+url = "https://github.com/Morpher-io/hummingbot"
+missing = true
+
+[[repo]]
+url = "https://github.com/Morpher-io/morpher-wallet-backend"
+
+[[repo]]
+url = "https://github.com/Morpher-io/morpher-wallet-frontend"
+
+[[repo]]
+url = "https://github.com/Morpher-io/MorpherProtocol"
+
+[[repo]]
+url = "https://github.com/Morpher-io/MorpherWallet"
+
+[[repo]]
+url = "https://github.com/Morpher-io/private-network-geth-poa-clique-explorers"
+
+[[repo]]
+url = "https://github.com/Morpher-io/react-native-test-flight"

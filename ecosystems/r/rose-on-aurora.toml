@@ -1,0 +1,34 @@
+# Ecosystem Level Information
+title = "Rose On Aurora"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/RoseOnAurora"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/RoseOnAurora/apr"
+
+[[repo]]
+url = "https://github.com/RoseOnAurora/bridge-assets"
+
+[[repo]]
+url = "https://github.com/RoseOnAurora/contracts-flattened"
+
+[[repo]]
+url = "https://github.com/RoseOnAurora/curve-pool-registry"
+
+[[repo]]
+url = "https://github.com/RoseOnAurora/docs"
+
+[[repo]]
+url = "https://github.com/RoseOnAurora/ethcall"
+
+[[repo]]
+url = "https://github.com/RoseOnAurora/rose-frontend"
+
+[[repo]]
+url = "https://github.com/RoseOnAurora/rose-landing"
+
+[[repo]]
+url = "https://github.com/RoseOnAurora/rose-subgraph"

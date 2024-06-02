@@ -1,0 +1,83 @@
+# Ecosystem Level Information
+title = "Coreum"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/CoreumFoundation"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/CoreumFoundation/astroport-core"
+
+[[repo]]
+url = "https://github.com/CoreumFoundation/awesomewasm-workshop"
+
+[[repo]]
+url = "https://github.com/CoreumFoundation/bdjuno"
+
+[[repo]]
+url = "https://github.com/CoreumFoundation/big-dipper-2.0-cosmos"
+
+[[repo]]
+url = "https://github.com/CoreumFoundation/coreum"
+
+[[repo]]
+url = "https://github.com/CoreumFoundation/coreum-docs"
+missing = true
+
+[[repo]]
+url = "https://github.com/CoreumFoundation/coreum-monitor"
+
+[[repo]]
+url = "https://github.com/CoreumFoundation/coreum-rust-protobuf"
+
+[[repo]]
+url = "https://github.com/CoreumFoundation/coreum-tools"
+
+[[repo]]
+url = "https://github.com/CoreumFoundation/coreum-ts-protobuf"
+
+[[repo]]
+url = "https://github.com/CoreumFoundation/coreum-wasm-sdk"
+
+[[repo]]
+url = "https://github.com/CoreumFoundation/crust"
+
+[[repo]]
+url = "https://github.com/CoreumFoundation/cw-contracts"
+
+[[repo]]
+url = "https://github.com/CoreumFoundation/faucet"
+
+[[repo]]
+url = "https://github.com/CoreumFoundation/ibc-contract-tutorial"
+
+[[repo]]
+url = "https://github.com/CoreumFoundation/juno"
+
+[[repo]]
+url = "https://github.com/CoreumFoundation/junov5"
+
+[[repo]]
+url = "https://github.com/CoreumFoundation/ledger-coreum"
+
+[[repo]]
+url = "https://github.com/CoreumFoundation/merkle-airdrop"
+
+[[repo]]
+url = "https://github.com/CoreumFoundation/secure-messaging-poc"
+
+[[repo]]
+url = "https://github.com/CoreumFoundation/smart-sdk"
+
+[[repo]]
+url = "https://github.com/CoreumFoundation/smartcontract-template"
+
+[[repo]]
+url = "https://github.com/CoreumFoundation/test-tube"
+
+[[repo]]
+url = "https://github.com/CoreumFoundation/token-registry"
+
+[[repo]]
+url = "https://github.com/CoreumFoundation/tutorials"

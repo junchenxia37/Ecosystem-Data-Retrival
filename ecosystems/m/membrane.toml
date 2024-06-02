@@ -1,0 +1,10 @@
+# Ecosystem Level Information
+title = "Membrane"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/MembraneFinance"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/MembraneFinance/membrane-core"

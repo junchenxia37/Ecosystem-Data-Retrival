@@ -1,0 +1,167 @@
+# Ecosystem Level Information
+title = "Aleo"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/AleoHQ"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/AleoHQ/aleo"
+
+[[repo]]
+url = "https://github.com/AleoHQ/aleo-education"
+
+[[repo]]
+url = "https://github.com/AleoHQ/aleo-instructions-syntax-sublime"
+
+[[repo]]
+url = "https://github.com/AleoHQ/aleo-instructions-syntax-vscode"
+
+[[repo]]
+url = "https://github.com/AleoHQ/aleo-js"
+
+[[repo]]
+url = "https://github.com/AleoHQ/aleo-rust"
+
+[[repo]]
+url = "https://github.com/AleoHQ/aleo-setup"
+
+[[repo]]
+url = "https://github.com/AleoHQ/aleo-setup-integration-test"
+
+[[repo]]
+url = "https://github.com/AleoHQ/aleo-std"
+
+[[repo]]
+url = "https://github.com/AleoHQ/aleo_lambda_blockchain"
+missing = true
+
+[[repo]]
+url = "https://github.com/AleoHQ/aleo_vm_lambda"
+missing = true
+
+[[repo]]
+url = "https://github.com/AleoHQ/ant-design"
+
+[[repo]]
+url = "https://github.com/AleoHQ/ARCs"
+
+[[repo]]
+url = "https://github.com/AleoHQ/bounty-2022-ethdenver"
+
+[[repo]]
+url = "https://github.com/AleoHQ/community"
+
+[[repo]]
+url = "https://github.com/AleoHQ/dizk"
+
+[[repo]]
+url = "https://github.com/AleoHQ/edn-test"
+missing = true
+
+[[repo]]
+url = "https://github.com/AleoHQ/fpga_snark_prover_test"
+missing = true
+
+[[repo]]
+url = "https://github.com/AleoHQ/grammars"
+
+[[repo]]
+url = "https://github.com/AleoHQ/highlight.js"
+
+[[repo]]
+url = "https://github.com/AleoHQ/leo"
+
+[[repo]]
+url = "https://github.com/AleoHQ/leo-acl2-bin"
+
+[[repo]]
+url = "https://github.com/AleoHQ/leo-plugins"
+
+[[repo]]
+url = "https://github.com/AleoHQ/leo-syntax-vscode"
+
+[[repo]]
+url = "https://github.com/AleoHQ/linguist"
+
+[[repo]]
+url = "https://github.com/AleoHQ/linguist-grammars"
+
+[[repo]]
+url = "https://github.com/AleoHQ/lsp4intellij"
+
+[[repo]]
+url = "https://github.com/AleoHQ/marlin"
+
+[[repo]]
+url = "https://github.com/AleoHQ/mpmc-bus"
+missing = true
+
+[[repo]]
+url = "https://github.com/AleoHQ/nemean"
+
+[[repo]]
+url = "https://github.com/AleoHQ/neptune"
+
+[[repo]]
+url = "https://github.com/AleoHQ/package_control_channel"
+
+[[repo]]
+url = "https://github.com/AleoHQ/poly-commit"
+
+[[repo]]
+url = "https://github.com/AleoHQ/pontoon"
+
+[[repo]]
+url = "https://github.com/AleoHQ/python-sdk"
+
+[[repo]]
+url = "https://github.com/AleoHQ/rust-rocksdb"
+
+[[repo]]
+url = "https://github.com/AleoHQ/sdk"
+
+[[repo]]
+url = "https://github.com/AleoHQ/service"
+
+[[repo]]
+url = "https://github.com/AleoHQ/snarkOS"
+
+[[repo]]
+url = "https://github.com/AleoHQ/snarkVM"
+
+[[repo]]
+url = "https://github.com/AleoHQ/sublimelsp-repository"
+
+[[repo]]
+url = "https://github.com/AleoHQ/tracing-bridge"
+missing = true
+
+[[repo]]
+url = "https://github.com/AleoHQ/wagyu"
+
+[[repo]]
+url = "https://github.com/AleoHQ/wagyu-zcash-parameters"
+
+[[repo]]
+url = "https://github.com/AleoHQ/web-view"
+
+[[repo]]
+url = "https://github.com/AleoHQ/welcome"
+
+[[repo]]
+url = "https://github.com/AleoHQ/workshop"
+
+[[repo]]
+url = "https://github.com/AleoHQ/yew_webview_bridge"
+
+[[repo]]
+url = "https://github.com/AleoHQ/zexe"
+
+[[repo]]
+url = "https://github.com/AleoHQ/zprize-harness"
+missing = true
+
+[[repo]]
+url = "https://github.com/AleoHQ/zxcvbn-rs"

@@ -1,0 +1,10 @@
+# Ecosystem Level Information
+title = "SX Network"
+
+sub_ecosystems = ["Celer Network cBridge"]
+
+github_organizations = []
+
+# Repositories
+[[repo]]
+url = "https://github.com/sx-bet/smart-contracts"

@@ -1,0 +1,33 @@
+# Ecosystem Level Information
+title = "Twilight"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/twilight-project"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/twilight-project/btc-oracle"
+
+[[repo]]
+url = "https://github.com/twilight-project/cosmos-sdk"
+
+[[repo]]
+url = "https://github.com/twilight-project/forkscanner"
+
+[[repo]]
+url = "https://github.com/twilight-project/metamask-snaps-beta"
+
+[[repo]]
+url = "https://github.com/twilight-project/nyks"
+
+[[repo]]
+url = "https://github.com/twilight-project/nyks-explorer"
+
+[[repo]]
+url = "https://github.com/twilight-project/twilight"
+missing = true
+
+[[repo]]
+url = "https://github.com/twilight-project/validity-gadget"
+missing = true

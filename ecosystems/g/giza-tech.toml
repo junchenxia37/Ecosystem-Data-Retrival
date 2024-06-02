@@ -1,0 +1,37 @@
+# Ecosystem Level Information
+title = "Giza Tech"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/gizatechxyz"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/gizatechxyz/cairo-containers"
+
+[[repo]]
+url = "https://github.com/gizatechxyz/giza-cli"
+
+[[repo]]
+url = "https://github.com/gizatechxyz/orion"
+
+[[repo]]
+url = "https://github.com/gizatechxyz/orion-benchmark"
+
+[[repo]]
+url = "https://github.com/gizatechxyz/Orion-Hub"
+
+[[repo]]
+url = "https://github.com/gizatechxyz/orion-proving-example"
+
+[[repo]]
+url = "https://github.com/gizatechxyz/orion_runner"
+
+[[repo]]
+url = "https://github.com/gizatechxyz/orion_tutorials"
+
+[[repo]]
+url = "https://github.com/gizatechxyz/osiris"
+
+[[repo]]
+url = "https://github.com/gizatechxyz/Tic-Tac-Stark"

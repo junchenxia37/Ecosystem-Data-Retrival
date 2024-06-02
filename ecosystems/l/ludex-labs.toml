@@ -1,0 +1,28 @@
+# Ecosystem Level Information
+title = "Ludex Labs"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/Ludex-Labs"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/Ludex-Labs/.github"
+
+[[repo]]
+url = "https://github.com/Ludex-Labs/ika"
+
+[[repo]]
+url = "https://github.com/Ludex-Labs/ludex-join-solana"
+
+[[repo]]
+url = "https://github.com/Ludex-Labs/ludex-js-coinflip"
+
+[[repo]]
+url = "https://github.com/Ludex-Labs/ludex-sdk-js"
+
+[[repo]]
+url = "https://github.com/Ludex-Labs/ludex-sdk-unity"
+
+[[repo]]
+url = "https://github.com/Ludex-Labs/LudexTxCore"

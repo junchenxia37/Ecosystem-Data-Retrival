@@ -1,0 +1,40 @@
+# Ecosystem Level Information
+title = "Poloniex Exchange"
+
+sub_ecosystems = ["Cryptofeed"]
+
+github_organizations = ["https://github.com/poloniex"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/poloniex/futures-java-sdk"
+
+[[repo]]
+url = "https://github.com/poloniex/nacos-docker"
+missing = true
+
+[[repo]]
+url = "https://github.com/poloniex/polo-futures-sample-strategies"
+
+[[repo]]
+url = "https://github.com/poloniex/polo-futures-sdk-python"
+
+[[repo]]
+url = "https://github.com/poloniex/polo-local-dev"
+missing = true
+
+[[repo]]
+url = "https://github.com/poloniex/polo-sdk-java"
+
+[[repo]]
+url = "https://github.com/poloniex/polo-sdk-python"
+
+[[repo]]
+url = "https://github.com/poloniex/polo-spot-sdk"
+
+[[repo]]
+url = "https://github.com/poloniex/polo-test"
+missing = true
+
+[[repo]]
+url = "https://github.com/poloniex/poloniex.js"

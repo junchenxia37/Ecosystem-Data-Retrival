@@ -1,0 +1,72 @@
+# Ecosystem Level Information
+title = "Acurast"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/Acurast"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/Acurast/acurast-core"
+tags = ["Protocol"]
+
+[[repo]]
+url = "https://github.com/Acurast/acurast-docs"
+tags = ["Docs"]
+
+[[repo]]
+url = "https://github.com/Acurast/acurast-faucet"
+missing = true
+
+[[repo]]
+url = "https://github.com/Acurast/acurast-hyperdrive"
+
+[[repo]]
+url = "https://github.com/Acurast/acurast-kotlin-sdk"
+tags = ["Developer Tools", "SDK"]
+
+[[repo]]
+url = "https://github.com/Acurast/acurast-processor-update"
+
+[[repo]]
+url = "https://github.com/Acurast/acurast-substrate"
+tags = ["Protocol"]
+
+[[repo]]
+url = "https://github.com/Acurast/acurast-typescript-sdk"
+
+[[repo]]
+url = "https://github.com/Acurast/aepp-sdk-java"
+
+[[repo]]
+url = "https://github.com/Acurast/apps"
+
+[[repo]]
+url = "https://github.com/Acurast/data-processor"
+
+[[repo]]
+url = "https://github.com/Acurast/elliptic-curves"
+
+[[repo]]
+url = "https://github.com/Acurast/ink-mmr"
+
+[[repo]]
+url = "https://github.com/Acurast/merkle-mountain-range"
+
+[[repo]]
+url = "https://github.com/Acurast/mina-zkoracles"
+
+[[repo]]
+url = "https://github.com/Acurast/nimbus"
+
+[[repo]]
+url = "https://github.com/Acurast/projects-info"
+
+[[repo]]
+url = "https://github.com/Acurast/rust-android-gradle"
+
+[[repo]]
+url = "https://github.com/Acurast/smoldot"
+
+[[repo]]
+url = "https://github.com/Acurast/xcm-emulator"

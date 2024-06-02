@@ -1,0 +1,19 @@
+# Ecosystem Level Information
+title = "Polkadot Developer Heroes"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/Polkadot-Heroes"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/Polkadot-Heroes/.github"
+
+[[repo]]
+url = "https://github.com/Polkadot-Heroes/CFPs"
+
+[[repo]]
+url = "https://github.com/Polkadot-Heroes/Discussions"
+
+[[repo]]
+url = "https://github.com/Polkadot-Heroes/Members"

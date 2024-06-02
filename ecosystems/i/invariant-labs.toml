@@ -1,0 +1,37 @@
+# Ecosystem Level Information
+title = "Invariant Labs"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/invariant-labs"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/invariant-labs/bonds"
+
+[[repo]]
+url = "https://github.com/invariant-labs/decimal"
+
+[[repo]]
+url = "https://github.com/invariant-labs/jupiter-invariant"
+
+[[repo]]
+url = "https://github.com/invariant-labs/protocol"
+
+[[repo]]
+url = "https://github.com/invariant-labs/protocol-a0"
+
+[[repo]]
+url = "https://github.com/invariant-labs/protocol-cspr"
+
+[[repo]]
+url = "https://github.com/invariant-labs/PSP22"
+
+[[repo]]
+url = "https://github.com/invariant-labs/stats"
+
+[[repo]]
+url = "https://github.com/invariant-labs/wAZERO"
+
+[[repo]]
+url = "https://github.com/invariant-labs/webapp"

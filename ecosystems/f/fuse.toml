@@ -1,0 +1,16 @@
+# Ecosystem Level Information
+title = "Fuse"
+
+sub_ecosystems = ["DIA", "LayerZero", "Metroswap", "Pimlico", "Sushi Swap"]
+
+github_organizations = []
+
+# Repositories
+[[repo]]
+url = "https://github.com/connext/monorepo"
+
+[[repo]]
+url = "https://github.com/fuseio/fuse-lp-rewards"
+
+[[repo]]
+url = "https://github.com/fuseio/fuse-network"

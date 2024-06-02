@@ -1,0 +1,46 @@
+# Ecosystem Level Information
+title = "Paint Swap"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/PaintSwap"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/PaintSwap/estfor-contracts"
+
+[[repo]]
+url = "https://github.com/PaintSwap/estfor-definitions"
+
+[[repo]]
+url = "https://github.com/PaintSwap/estfor-demo"
+
+[[repo]]
+url = "https://github.com/PaintSwap/estfor-discord-bot"
+
+[[repo]]
+url = "https://github.com/PaintSwap/ethereum-blocks"
+
+[[repo]]
+url = "https://github.com/PaintSwap/fantom-sonic-contracts"
+
+[[repo]]
+url = "https://github.com/PaintSwap/fantom-sonic-frontend"
+
+[[repo]]
+url = "https://github.com/PaintSwap/paintswap-changelogs"
+
+[[repo]]
+url = "https://github.com/PaintSwap/paintswap-core"
+
+[[repo]]
+url = "https://github.com/PaintSwap/paintswap-farm"
+
+[[repo]]
+url = "https://github.com/PaintSwap/paintswap-marketplace-interaction"
+
+[[repo]]
+url = "https://github.com/PaintSwap/paintswap-marketplace-listener"
+
+[[repo]]
+url = "https://github.com/PaintSwap/paintswap-subgraph"

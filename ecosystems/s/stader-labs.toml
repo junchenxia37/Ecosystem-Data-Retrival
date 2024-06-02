@@ -1,0 +1,125 @@
+# Ecosystem Level Information
+title = "Stader Labs"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/stader-labs"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/stader-labs/aips"
+
+[[repo]]
+url = "https://github.com/stader-labs/app-plugin-staderlabs"
+
+[[repo]]
+url = "https://github.com/stader-labs/app-plugin-staderlabs-bnbx"
+
+[[repo]]
+url = "https://github.com/stader-labs/Aptos-Contracts"
+
+[[repo]]
+url = "https://github.com/stader-labs/assets"
+
+[[repo]]
+url = "https://github.com/stader-labs/assets-1"
+
+[[repo]]
+url = "https://github.com/stader-labs/assets-2"
+
+[[repo]]
+url = "https://github.com/stader-labs/audits"
+
+[[repo]]
+url = "https://github.com/stader-labs/bnbX"
+
+[[repo]]
+url = "https://github.com/stader-labs/bridge-assets"
+
+[[repo]]
+url = "https://github.com/stader-labs/connectkit"
+
+[[repo]]
+url = "https://github.com/stader-labs/cw-plus-1"
+
+[[repo]]
+url = "https://github.com/stader-labs/ethcli-ui"
+
+[[repo]]
+url = "https://github.com/stader-labs/ethx"
+
+[[repo]]
+url = "https://github.com/stader-labs/get-aptos"
+
+[[repo]]
+url = "https://github.com/stader-labs/hbarx-cli"
+
+[[repo]]
+url = "https://github.com/stader-labs/helio-smart-contracts"
+
+[[repo]]
+url = "https://github.com/stader-labs/ledger-app-browser"
+
+[[repo]]
+url = "https://github.com/stader-labs/lunax"
+
+[[repo]]
+url = "https://github.com/stader-labs/maticX"
+
+[[repo]]
+url = "https://github.com/stader-labs/merkle-rewards"
+
+[[repo]]
+url = "https://github.com/stader-labs/mirror-contracts"
+
+[[repo]]
+url = "https://github.com/stader-labs/nearx"
+
+[[repo]]
+url = "https://github.com/stader-labs/nearx-sdk"
+
+[[repo]]
+url = "https://github.com/stader-labs/next-example-dapp"
+
+[[repo]]
+url = "https://github.com/stader-labs/sftmx-subgraph-one"
+
+[[repo]]
+url = "https://github.com/stader-labs/snapshot-strategies"
+
+[[repo]]
+url = "https://github.com/stader-labs/stader-lp-staking"
+
+[[repo]]
+url = "https://github.com/stader-labs/stader-minipool-go"
+missing = true
+
+[[repo]]
+url = "https://github.com/stader-labs/stader-node"
+
+[[repo]]
+url = "https://github.com/stader-labs/stader-permissioned-cli"
+
+[[repo]]
+url = "https://github.com/stader-labs/stader-protocol-simulation-notebook"
+
+[[repo]]
+url = "https://github.com/stader-labs/stader-terra-kyv"
+
+[[repo]]
+url = "https://github.com/stader-labs/Sui-Contracts"
+
+[[repo]]
+url = "https://github.com/stader-labs/terra-classic"
+
+[[repo]]
+url = "https://github.com/stader-labs/tokens-trisolaris"
+
+[[repo]]
+url = "https://github.com/stader-labs/tview"
+
+[[repo]]
+url = "https://github.com/stader-labs/update-screenshots"
+
+[[repo]]
+url = "https://github.com/stader-labs/wormhole-token-list"

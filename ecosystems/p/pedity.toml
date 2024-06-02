@@ -1,0 +1,44 @@
+# Ecosystem Level Information
+title = "Pedity"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/PedityOfficial"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/PedityOfficial/awesome-ipfs"
+
+[[repo]]
+url = "https://github.com/PedityOfficial/go"
+
+[[repo]]
+url = "https://github.com/PedityOfficial/go-ipfs"
+
+[[repo]]
+url = "https://github.com/PedityOfficial/java-stellar-sdk"
+
+[[repo]]
+url = "https://github.com/PedityOfficial/js-stellar-sdk"
+
+[[repo]]
+url = "https://github.com/PedityOfficial/kelp"
+
+[[repo]]
+url = "https://github.com/PedityOfficial/New-Additions"
+missing = true
+
+[[repo]]
+url = "https://github.com/PedityOfficial/Pedity-Platform"
+missing = true
+
+[[repo]]
+url = "https://github.com/PedityOfficial/pedityofficial.github.io"
+missing = true
+
+[[repo]]
+url = "https://github.com/PedityOfficial/PedityWallet"
+missing = true
+
+[[repo]]
+url = "https://github.com/PedityOfficial/stellarterm"

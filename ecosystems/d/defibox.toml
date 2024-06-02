@@ -1,0 +1,13 @@
+# Ecosystem Level Information
+title = "DefiBox"
+
+sub_ecosystems = []
+
+github_organizations = ["https://github.com/defiboxbox"]
+
+# Repositories
+[[repo]]
+url = "https://github.com/defiboxbox/contracts"
+
+[[repo]]
+url = "https://github.com/stableex/sx.defibox"
